@@ -1,0 +1,1 @@
+# omnismtp-mandrill
